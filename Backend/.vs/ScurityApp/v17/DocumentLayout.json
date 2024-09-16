@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\misha\\Documents\\Folders\\ScurityApp\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39E5BDA9-DF2D-4837-820A-5F5EE979530C}|ScurityApp\\ScurityApp.csproj|c:\\users\\misha\\documents\\folders\\scurityapp\\backend\\scurityapp\\apimodel\\requestapimodel\\workschedulerequestapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E5BDA9-DF2D-4837-820A-5F5EE979530C}|ScurityApp\\ScurityApp.csproj|solutionrelative:scurityapp\\apimodel\\requestapimodel\\workschedulerequestapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E5BDA9-DF2D-4837-820A-5F5EE979530C}|ScurityApp\\ScurityApp.csproj|c:\\users\\misha\\documents\\folders\\scurityapp\\backend\\scurityapp\\controllers\\workschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E5BDA9-DF2D-4837-820A-5F5EE979530C}|ScurityApp\\ScurityApp.csproj|solutionrelative:scurityapp\\controllers\\workschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E5BDA9-DF2D-4837-820A-5F5EE979530C}|ScurityApp\\ScurityApp.csproj|c:\\users\\misha\\documents\\folders\\scurityapp\\backend\\scurityapp\\apimodel\\responseapimodel\\workscheduleresponseapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E5BDA9-DF2D-4837-820A-5F5EE979530C}|ScurityApp\\ScurityApp.csproj|solutionrelative:scurityapp\\apimodel\\responseapimodel\\workscheduleresponseapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E5BDA9-DF2D-4837-820A-5F5EE979530C}|ScurityApp\\ScurityApp.csproj|c:\\users\\misha\\documents\\folders\\scurityapp\\backend\\scurityapp\\apimodel\\refernceapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E5BDA9-DF2D-4837-820A-5F5EE979530C}|ScurityApp\\ScurityApp.csproj|solutionrelative:scurityapp\\apimodel\\refernceapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD46387-1E6E-4B43-B4D1-E511BDA1EBA1}|ScurityApp.DAL\\ScurityApp.DAL.csproj|c:\\users\\misha\\documents\\folders\\scurityapp\\backend\\scurityapp.dal\\model\\workschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD46387-1E6E-4B43-B4D1-E511BDA1EBA1}|ScurityApp.DAL\\ScurityApp.DAL.csproj|solutionrelative:scurityapp.dal\\model\\workschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E5BDA9-DF2D-4837-820A-5F5EE979530C}|ScurityApp\\ScurityApp.csproj|c:\\users\\misha\\documents\\folders\\scurityapp\\backend\\scurityapp\\controllers\\shiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E5BDA9-DF2D-4837-820A-5F5EE979530C}|ScurityApp\\ScurityApp.csproj|solutionrelative:scurityapp\\controllers\\shiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C533CC17-E497-4203-BA23-505805098788}|ScurityApp.BLL\\ScurityApp.BLL.csproj|C:\\Users\\misha\\Documents\\Folders\\ScurityApp\\Backend\\scurityapp.bll\\helpers\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C533CC17-E497-4203-BA23-505805098788}|ScurityApp.BLL\\ScurityApp.BLL.csproj|solutionrelative:scurityapp.bll\\helpers\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkScheduleRequestApiModel.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\ScurityApp\\Backend\\ScurityApp\\ApiModel\\RequestApiModel\\WorkScheduleRequestApiModel.cs",
+              "RelativeDocumentMoniker": "ScurityApp\\ApiModel\\RequestApiModel\\WorkScheduleRequestApiModel.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\ScurityApp\\Backend\\ScurityApp\\ApiModel\\RequestApiModel\\WorkScheduleRequestApiModel.cs",
+              "RelativeToolTip": "ScurityApp\\ApiModel\\RequestApiModel\\WorkScheduleRequestApiModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:59:51.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RefernceApiModel.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\ScurityApp\\Backend\\ScurityApp\\ApiModel\\RefernceApiModel.cs",
+              "RelativeDocumentMoniker": "ScurityApp\\ApiModel\\RefernceApiModel.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\ScurityApp\\Backend\\ScurityApp\\ApiModel\\RefernceApiModel.cs",
+              "RelativeToolTip": "ScurityApp\\ApiModel\\RefernceApiModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:00:41.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\ScurityApp\\Backend\\ScurityApp.DAL\\Model\\WorkSchedule.cs",
+              "RelativeDocumentMoniker": "ScurityApp.DAL\\Model\\WorkSchedule.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\ScurityApp\\Backend\\ScurityApp.DAL\\Model\\WorkSchedule.cs",
+              "RelativeToolTip": "ScurityApp.DAL\\Model\\WorkSchedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:00:24.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkScheduleResponseApiModel.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\ScurityApp\\Backend\\ScurityApp\\ApiModel\\ResponseApiModel\\WorkScheduleResponseApiModel.cs",
+              "RelativeDocumentMoniker": "ScurityApp\\ApiModel\\ResponseApiModel\\WorkScheduleResponseApiModel.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\ScurityApp\\Backend\\ScurityApp\\ApiModel\\ResponseApiModel\\WorkScheduleResponseApiModel.cs",
+              "RelativeToolTip": "ScurityApp\\ApiModel\\ResponseApiModel\\WorkScheduleResponseApiModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:00:09.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkScheduleController.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\ScurityApp\\Backend\\ScurityApp\\Controllers\\WorkScheduleController.cs",
+              "RelativeDocumentMoniker": "ScurityApp\\Controllers\\WorkScheduleController.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\ScurityApp\\Backend\\ScurityApp\\Controllers\\WorkScheduleController.cs",
+              "RelativeToolTip": "ScurityApp\\Controllers\\WorkScheduleController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBcAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:56:17.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShiftController.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\ScurityApp\\Backend\\ScurityApp\\Controllers\\ShiftController.cs",
+              "RelativeDocumentMoniker": "ScurityApp\\Controllers\\ShiftController.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\ScurityApp\\Backend\\ScurityApp\\Controllers\\ShiftController.cs",
+              "RelativeToolTip": "ScurityApp\\Controllers\\ShiftController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T15:55:59.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailHelper.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\ScurityApp\\Backend\\ScurityApp.BLL\\Helpers\\EmailHelper.cs",
+              "RelativeDocumentMoniker": "ScurityApp.BLL\\Helpers\\EmailHelper.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\ScurityApp\\Backend\\ScurityApp.BLL\\Helpers\\EmailHelper.cs*",
+              "RelativeToolTip": "ScurityApp.BLL\\Helpers\\EmailHelper.cs*",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowBIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:06:09.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

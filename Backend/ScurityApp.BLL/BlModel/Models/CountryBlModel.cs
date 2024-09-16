@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ScurityApp.BLL.BlModel.Models
+{
+    internal class CountryBlModel : ReferenceBlModel
+    {
+        public string Code { get; set; }
+    }
+}

@@ -1,0 +1,10 @@
+# Ignore build output
+/Backend/ScurityApp/obj/
+/Backend/ScurityApp/bin/
+
+# Ignore other generated files
+*.pdb
+*.dll
+*.exe
+*.cache
+*.json
