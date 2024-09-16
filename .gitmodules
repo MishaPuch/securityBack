@@ -1,0 +1,3 @@
+[submodule "fronend/security-application"]
+	path = fronend/security-application
+	url = https://github.com/MishaPuch/SecurityApp
